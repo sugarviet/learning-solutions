@@ -1,0 +1,34 @@
+{
+  "learning-solutions":  [
+  {
+    "id": 1,
+    "img": "https://loremflickr.com/cache/resized/65535_52352644350_64d12e3701_z_640_480_nofilter.jpg",
+    "title": "Title 1"
+  },
+  {
+    "id": 2,
+    "img": "https://loremflickr.com/cache/resized/65535_52352644350_64d12e3701_z_640_480_nofilter.jpg",
+    "title": "Title 2"
+  },
+  {
+    "id": 3,
+    "img": "https://loremflickr.com/cache/resized/65535_52352644350_64d12e3701_z_640_480_nofilter.jpg",
+    "title": "Title 3"
+  },
+  {
+    "id": 4,
+    "img": "https://loremflickr.com/cache/resized/65535_52352644350_64d12e3701_z_640_480_nofilter.jpg",
+    "title": "Title 4"
+  },
+  {
+    "id": 5,
+    "img": "https://loremflickr.com/cache/resized/65535_52352644350_64d12e3701_z_640_480_nofilter.jpg",
+    "title": "Title 5"
+  },
+  {
+    "id": 6,
+    "img": "https://loremflickr.com/cache/resized/65535_52352644350_64d12e3701_z_640_480_nofilter.jpg",
+    "title": "Title 6"
+  }
+      ]
+}
